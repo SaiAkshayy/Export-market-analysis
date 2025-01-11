@@ -50,7 +50,6 @@ This project analyzes Russia's export data to uncover key trends, highlight the 
 - Global recessions (2009) and the 2014 Russian financial crisis led to sharp declines in export values.
 - Economic recovery post-2016 was driven by diversified commodity trade and partnerships with China.
 
-**Visualization:**
  <img src ="https://github.com/user-attachments/assets/744b2487-f84a-4242-8645-0cc7cebf5c10" width = 600 height = 400>
 
 
