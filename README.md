@@ -22,7 +22,7 @@ This project analyzes Russia's export data to uncover key trends, highlight the 
 **Analysis Techniques:**
 - SQL-based querying and dimensional modeling for structured analysis.
 - Visualization tools (Matplotlib, Pyplot) to explore and present findings.
-<img src="" width = 1000 height = 700>
+<img src="https://github.com/user-attachments/assets/3e73275e-32d1-44b6-866b-936e1835a736" width = 900 height = 500>
 
 ## Key Findings
 
