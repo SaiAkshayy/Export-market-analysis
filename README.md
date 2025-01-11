@@ -42,7 +42,7 @@ This project analyzes Russia's export data to uncover key trends, highlight the 
   - Precious metals surged post-2016, becoming a growing revenue source.
 
 
-<img src = "https://github.com/user-attachments/assets/29435fb8-057c-4520-b8f2-5d4beeccd63d" width = 800 height = 350>
+<img src = "https://github.com/user-attachments/assets/29435fb8-057c-4520-b8f2-5d4beeccd63d" width = 600 height = 350>
 
 
 
