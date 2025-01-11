@@ -33,7 +33,6 @@ This project analyzes Russia's export data to uncover key trends, highlight the 
   - Economic sanctions and geopolitical tensions significantly impacted exports to Western countries.
 
 <img src ="https://github.com/user-attachments/assets/d90fa0cd-245e-40af-8369-10ad89b3796a" width = 600 height = 400>
-*A bar chart illustrating total trade values for top partners.*
 
 
 ### 2. Export Commodities
