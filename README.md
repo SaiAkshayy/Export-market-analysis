@@ -41,9 +41,9 @@ This project analyzes Russia's export data to uncover key trends, highlight the 
   - Petroleum peaked in 2012 with a decline post-2015 due to falling oil prices and geopolitical events.
   - Precious metals surged post-2016, becoming a growing revenue source.
 
-**Visualization:**
-![Pie Chart: Commodity Distribution](#)  
-*A pie chart showing export shares by major commodity types.*
+
+<img src = "https://github.com/user-attachments/assets/29435fb8-057c-4520-b8f2-5d4beeccd63d" width = 600 height = 400>
+
 
 
 ### 3. Economic Impact Analysis
