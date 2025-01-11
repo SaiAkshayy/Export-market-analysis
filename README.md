@@ -51,8 +51,7 @@ This project analyzes Russia's export data to uncover key trends, highlight the 
 - Economic recovery post-2016 was driven by diversified commodity trade and partnerships with China.
 
 **Visualization:**
-![Line Graph: Export Trends Over Time](#)  
-*A line graph comparing annual export values across top trading partners.*
+ <img src ="https://github.com/user-attachments/assets/744b2487-f84a-4242-8645-0cc7cebf5c10" width = 600 height = 400>
 
 
 ## Recommendations
